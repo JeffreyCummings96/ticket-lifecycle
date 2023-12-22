@@ -56,5 +56,12 @@ Now that we are logged in as our Agent Jane we can observe and troubleshoot the 
 <p>
 We will observe <b>Ticket#458091</b> or as the customer stated "Mobile banking is down." In this simulation and in the real world this ticket would most likely be a severity A SLA plan because it could potentially lose income for the business.
 
-For Jane in this simulation we will pretend she is the Queue Manager and we will make sure the settings are configured properly. <b>The red arrows in the above image show where I have changed the severity and priority of this ticket.</b>
+For Jane in this simulation we will pretend she is the Queue Manager and make sure the settings are configured properly. <b>The red arrows in the above image show where I have changed the severity and priority of this ticket.</b>
+</p>
+<p>
+<img src=https://i.imgur.com/CcUd6Z4.png>
+<img src=https://i.imgur.com/oYoMUKq.png>
+</p>
+<p>
+If the support team is unable to troubleshoot the issue at hand there is an option to transfer the ticket to another department like the image examples above.
 </p>
