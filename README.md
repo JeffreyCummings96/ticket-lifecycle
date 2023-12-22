@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img src=https://i.imgur.com/iwa4KVp.png/>
 </p>
 <p>
-I will be going over creating a help topic with the custom help topics I configured in the previous tutorial I am going about this as an End User <b> i. Business Critical Outage ii.Personal Equipment Issues iii. Equipment Request iv. Password Reset.</b>
+I will be going over creating a help topic with the custom help topics I configured in the previous tutorial. <b> i. Business Critical Outage ii.Personal Equipment Issues iii. Equipment Request iv. Password Reset.</b>
   <br />
 </p>
 <br />
