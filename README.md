@@ -46,6 +46,15 @@ I will now be logging into osTicket as a Help Desk Professional which you may re
 <img src=https://i.imgur.com/nprwCLi.png>
 </p>
 <p>
-Now that we are logged in as our Agent Jane we can observe and troubleshoot the ongoing tickets.
+Now that we are logged in as our Agent Jane we can observe and troubleshoot the ongoing tickets, two of which I already created beforehand.
 </p>
 <br />
+
+<p>
+  <img src=https://i.imgur.com/1wrqZWb.png>
+</p>
+<p>
+We will observe <b>Ticket#458091</b> or as the customer stated "Mobile banking is down." In this simulation and in the real world this ticket would most likely be a severity A SLA plan because it could potentially lose income for the business.
+
+For Jane in this simulation we will pretend she is the Queue Manager and we will make sure the settings are configured properly. <b>The red arrows in the above image show where I have changed the severity and priority of this ticket.</b>
+</p>
