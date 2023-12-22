@@ -73,3 +73,18 @@ If the support team is unable to troubleshoot the issue at hand there is an opti
 If you scroll to the bottom of the page you will see a "post reply" section as you can see we replied by saying that we are coordinating with the sys admins 
   <b>Note: The arrow indicates that the ticket status is still opened we will leave the ticket open for now but the two other options are resolved and closed.</b>
 </p>
+<p>
+  <img src=https://i.imgur.com/FyL8LZE.png>
+</p>
+
+<p>
+Now we will say that a fault has been found and the issue has been resolved.
+</p>
+<p>
+<img src=https://i.imgur.com/smfz7c7.png>
+<img src=https://i.imgur.com/HSM0nTY.png>
+</p>
+
+<p>
+If we go back to the dashboard we can see that <b>Ticket#458091</b> is no longer in open, If we go to the closed tab we can see that the ticket has been closed and resolved.
+</p>
