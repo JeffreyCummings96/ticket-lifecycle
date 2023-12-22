@@ -46,7 +46,7 @@ I will now be logging into osTicket as a Help Desk Professional which you may re
 <img src=https://i.imgur.com/nprwCLi.png>
 </p>
 <p>
-Now that we are logged in as our Agent Jane we can observe and troubleshoot the ongoing tickets, two of which I already created beforehand.
+Now that we are logged in as our Agent Jane we can observe and troubleshoot the ongoing ticket reagarding the mobile banking being offline, I created two other tickets for reference but we will focusing on this ticket for the simulation.
 </p>
 <br />
 
@@ -64,4 +64,12 @@ For Jane in this simulation we will pretend she is the Queue Manager and make su
 </p>
 <p>
 If the support team is unable to troubleshoot the issue at hand there is an option to transfer the ticket to another department like the image examples above.
+</p>
+
+<p>
+  <img src=https://i.imgur.com/aaxYBoL.png>
+</p>
+<p>
+If you scroll to the bottom of the page you will see a "post reply" section as you can see we replied by saying that we are coordinating with the sys admins 
+  <b>Note: The arrow indicates that the ticket status is still opened we will leave the ticket open for now but the two other options are resolved and closed.</b>
 </p>
